@@ -10,7 +10,7 @@ export default function Cta() {
           <h2 className="font-semibold text-3xl max-w-xl text-center mb-8">
             Prepared to turn ideas into reality? I&apos;am here to help
           </h2>
-          <Link href="/contact">
+          <Link href={"/contact"}>
             <Button>Contact me</Button>
           </Link>
         </div>
