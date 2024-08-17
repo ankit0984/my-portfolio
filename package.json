@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "prod": "node_modules/.bin/next",
     "lint": "next lint",
     "format": "prettier --write ."
   },
